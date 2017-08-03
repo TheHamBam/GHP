@@ -1,7 +1,2 @@
-<!DOCTYPE html>
-<html>
-<body>
-<hl>Hello World</hl>
-<p>I'm hosted with Github Pages</p>
-</body>
-</html>
+- $ cd thehambam.github.io
+- $ echo "Hello World" > index.html
